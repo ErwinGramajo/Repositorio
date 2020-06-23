@@ -32,7 +32,6 @@ HOBBIES:<br>
   	1. Me gusta salir a correr <br>
   	2.Me gustan los juegos extremos <br>
   	3. Me gusta salir en bicicleta <br> </p>
-
   <hr>      
   <p>
   
